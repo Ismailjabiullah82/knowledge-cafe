@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover": "https://via.placeholder.com/150",
+    "title": "The Art of JavaScript",
+    "author": "Jane Doe",
+    "img": "https://via.placeholder.com/100",
+    "postedDate": "2024-11-10",
+    "readingTime": 5,
+    "hashtags": ["#JavaScript", "#Coding", "#WebDevelopment"]
+  },
+  {
+    "id": 2,
+    "cover": "https://via.placeholder.com/150",
+    "title": "Understanding Async Programming",
+    "author": "John Smith",
+    "img": "https://via.placeholder.com/100",
+    "postedDate": "2024-11-08",
+    "readingTime": 7,
+    "hashtags": ["#Async", "#JavaScript", "#Programming"]
+  },
+  {
+    "id": 3,
+    "cover": "https://via.placeholder.com/150",
+    "title": "CSS Tricks for Beginners",
+    "author": "Alice Brown",
+    "img": "https://via.placeholder.com/100",
+    "postedDate": "2024-11-05",
+    "readingTime": 6,
+    "hashtags": ["#CSS", "#Design", "#Frontend"]
+  },
+  {
+    "id": 4,
+    "cover": "https://via.placeholder.com/150",
+    "title": "Mastering React in 30 Days",
+    "author": "Bob Lee",
+    "img": "https://via.placeholder.com/100",
+    "postedDate": "2024-10-30",
+    "readingTime": 10,
+    "hashtags": ["#React", "#JavaScript", "#UI"]
+  },
+  {
+    "id": 5,
+    "cover": "https://via.placeholder.com/150",
+    "title": "Building REST APIs with Node.js",
+    "author": "Chris Kim",
+    "img": "https://via.placeholder.com/100",
+    "postedDate": "2024-11-01",
+    "readingTime": 8,
+    "hashtags": ["#NodeJS", "#APIs", "#Backend"]
+  }
+]
